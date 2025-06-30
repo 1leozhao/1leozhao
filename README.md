@@ -6,6 +6,5 @@
 
 ---
 
-## 👨‍💻
-
-Engineer. Previously: Andreessen Horowitz, JP Morgan Chase.
+### 👨‍💻
+### Engineer. Previously: Andreessen Horowitz, JP Morgan Chase.
