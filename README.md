@@ -6,14 +6,6 @@
 
 ---
 
-### 🐍 My Contribution Graph
+## 👨‍💻
 
-<div align="center">
-  <img src="output/github-snake-dark.svg" alt="Contribution Snake" />
-</div>
-
----
-
-### 👨‍💻
-
-Engineer. Previously: a16z, JP Morgan Chase.
+Engineer. Previously: Andreessen Horowitz, JP Morgan Chase.
