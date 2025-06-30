@@ -8,6 +8,4 @@
   </div>
 </div>
 
----
-
 ### 👨‍💻 Engineer. Previously: Andreessen Horowitz, JP Morgan Chase.
