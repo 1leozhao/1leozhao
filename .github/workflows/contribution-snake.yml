@@ -12,19 +12,22 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Generate contribution snake
         uses: Platane/snk@v3
-        id: snake-gif
         with:
-          github_user_name: 1leozhao
-          svg_out_path: dist/github-contribution-grid-snake-dark.svg
-          snake_color: 'blue'
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+            output/github-snake-blue.svg?color_snake=blue&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
 
       - name: Commit and push
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/
+          git add output/
           git commit -m "Update contribution snake" || exit 0
           git push 

@@ -21,5 +21,5 @@
 ### 🐍 My Contribution Graph:
 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="output/github-snake-dark.svg" alt="Contribution Snake" />
 </div>
