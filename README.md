@@ -1,11 +1,8 @@
 ## Hello 👋
 
 <div align="center">
-  <img src="assets/rolly_rocket_by_valenberg_d9y6rvp.gif" alt="Rolly Rocket Animation" width="100%">
-  <br>
-  <div align="right">
-    <small><a href="https://www.deviantart.com/valenberg">Valenberg</a></small>
-  </div>
+  <div class="tenor-gif-embed" data-postid="27394134" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/ken-ken-carson-freestyle2-ken-music-video-ken-carson-freestyle2-gif-27394134">Ken Ken Carson GIF</a>from <a href="https://tenor.com/search/ken-gifs">Ken GIFs</a></div>
+  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 </div>
 
 ### 👨‍💻 Engineer. Previously: Andreessen Horowitz, JP Morgan Chase.
