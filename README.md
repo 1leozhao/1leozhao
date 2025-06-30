@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="assets/rolly_rocket_by_valenberg_d9y6rvp.gif" alt="Rolly Rocket Animation" width="400">
+  <img src="assets/rolly_rocket_by_valenberg_d9y6rvp.gif" alt="Rolly Rocket Animation" width="100%">
 </div>
 
 <!--
